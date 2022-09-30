@@ -25,8 +25,8 @@ I used this project to learn more about string manipulations
 Install my-project with pip
 
 ```bash
-  git clone git@github.com:tt-bb/cli-scripts/acronym.git
-  cd acronym
+  git clone git@github.com:tt-bb/cli-scripts.git
+  cd cli-scripts/acronym/
   python3 main.py
 ```
     
