@@ -1,0 +1,4 @@
+.DS_Store # MACOSs
+*.code-workspace # VISUAL STUDIO CODE
+
+**/venv/ # VIRTUAL ENVIRONEMENTS

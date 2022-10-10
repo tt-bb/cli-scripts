@@ -15,6 +15,7 @@ I used this project to learn: the module calendar, but very succint.
 
 ![Logo python](https://img.shields.io/badge/Python-v3.10.6-success?style=flat&logo=python&logoColor=white)
 ![Logo Calendar](https://img.shields.io/badge/Module%20Calendar-v3.10.6-success?style=flat&logo=google-calendar&logoColor=white)
+![Logo](https://img.shields.io/badge/VisualStudioCode-v1.71.2-success?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## Demo
 
